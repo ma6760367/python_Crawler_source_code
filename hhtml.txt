@@ -1,0 +1,1631 @@
+
+
+<!DOCTYPE HTML >
+<html lang="zh-Hans">
+<head>
+
+<meta charset="utf-8">
+<title>Wi-Fi.HK - 热点位置 (简体中文版本)</title>
+<meta name="description" content="List of public Wi-Fi completely free or free in Hong Kong under Wi-Fi.HK." />
+<meta name="keywords" content="wifi, wi-fi, hotspot, hong kong" />
+<meta name="author" content="WTIA, OGCIO" />
+
+<meta name="smartbanner:title" content="下载免费「Wi-Fi.HK」流动应用程式">
+<meta name="smartbanner:author" content="&nbsp;">
+<meta name="smartbanner:price" content="&nbsp;">
+<meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
+<meta name="smartbanner:price-suffix-google" content=" - In Google Play">
+<meta name="smartbanner:icon-apple" content="/Images/favicon.jpg">
+<meta name="smartbanner:icon-google" content="/Images/favicon.jpg">
+<meta name="smartbanner:button" content="&nbsp;">
+<meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/hk/app/wi-fi-hk/id899066359">
+<meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=org.wtia.wifihk">
+<meta name="smartbanner:enabled-platforms" content="android,ios">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script>
+            navigator.userAgent = "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36";
+    </script>
+
+<link rel="stylesheet" type="text/css" href="/Content/flexboxgrid.min.css">
+<link rel="stylesheet" type="text/css" href="/Content/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="/Content/bootstrap-responsive.css">
+<link rel="stylesheet" type="text/css" href="/Content/style.css">
+<link rel="stylesheet" type="text/css" href="/Content/slider.css">
+<link rel="stylesheet" type="text/css" href="/Content/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="/Content/swiper.min.css">
+<link rel="stylesheet" type="text/css" href="/Content/app.css">
+<link rel="stylesheet" type="text/css" href="/Content/smartbanner.min.css">
+
+<link rel="stylesheet" href="/Content/orange.css">
+<!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:700,400,300,200' rel='stylesheet' type='text/css'>
+<style>
+
+        @media print {
+            .provider-logo {
+                display: none;
+            }
+            #lang{
+                display: none;
+            }
+
+			a[href]:after {
+			    content: none !important;
+		    }
+        }
+
+            * {
+                line-height: 1.2em;
+                     font-family: "Noto Sans SC", Arial, Helvetica, sans-serif !important;
+              }
+
+
+            .smartbanner__button__label::after {
+                content: "";
+                position: absolute;
+                right: 0;
+                top: 0;
+                height: 100%;
+                width: 30px;
+                background: url( /Images/arrow_right.png) no-repeat center right;
+            }
+    </style>
+
+<script type="text/javascript" src="/Scripts/modernizr.custom.79639.js"></script>
+
+<link rel="shortcut icon" href="/Images/favicon.png">
+<link href="/Content/datatable/css?v=hLyzl8uWu5-nXBlqiDGguQJyBzXueGrZYaDXgN8eOQ01" rel="stylesheet" />
+<link href="/Content/themes/base/css?v=myqT7npwmF2ABsuSaHqt8SCvK8UFWpRv7T4M8r3kiK01" rel="stylesheet" />
+<style>
+            body, p, div, span, input, .chosen-choices input {
+                font-size: 15px;
+            }
+
+            h1 {
+                font-size: 23px;
+            }
+
+            h2 {
+                font-size: 21px;
+            }
+
+            h3 {
+                font-size: 19px;
+            }
+
+            h4 {
+                font-size: 17px;
+            }
+
+            h5 {
+                font-size: 15px;
+            }
+
+            dataTables_wrapper {
+                font-size: 1em;
+            }
+
+            table {
+                font-size: 1em;
+            }
+        </style>
+</head>
+<body>
+<div tabindex="1" style="width:0;height:0" id="focusForSkip-link"></div>
+<div class="skip-link">
+<a tabindex="1" href="#main-content" class="skip-link__link" title="跳至主要内容" onclick="document.getElementById('main-content').focus();">跳至主要内容</a>
+</div>
+<header id="header">
+<div class="container">
+<div class="f-row">
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 logo">
+<a tabindex="1" href='/zh-CN'><img style="margin-left: -10px;" src="/Images/logo.svg" alt="Wi-Fi.HK" title="Wi-Fi.HK" /></a>
+</div>
+<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+<nav class="mobile-center navigation">
+<ul>
+<li>
+<a class="selected" href="/zh-CN/HotspotLocation" tabindex="1">热点位置</a>
+</li>
+<li>
+<a class="" href="/zh-CN/Organization" tabindex="1">机构名单</a>
+</li>
+<li>
+<a class="" href="/zh-CN/FAQ" tabindex="1">常见问题</a>
+</li>
+<li>
+<a class="" href="/zh-CN/Join" tabindex="1">加入计划</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div id="body">
+<div id="page-header" class="container">
+<div>
+<h1>热点位置</h1>
+</div>
+</div>
+<style>
+            #lang span {
+                color: #2d79b4;
+            }
+
+            #lang a:hover {
+                cursor: pointer;
+            }
+
+            #lang span:hover {
+                cursor: pointer;
+            }
+
+            .clipping-alt {
+                position: absolute !important;
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+
+            #lang .smallFont {
+                display: inline-block;
+                width: 20px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/fontsize_s.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .smallFont:hover {
+                    background: url(/Images/fontsize_s_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+
+            #lang .mediumFont {
+                display: inline-block;
+                width: 20px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/fontsize_m.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .mediumFont:hover {
+                    background: url(/Images/fontsize_m_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+
+            #lang .largeFont {
+                display: inline-block;
+                width: 20px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/fontsize_l.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .largeFont:hover {
+                    background: url(/Images/fontsize_l_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+
+            #lang .tcLang {
+                display: inline-block;
+                width: 20px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/lang_tc.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .tcLang:hover {
+                    background: url(/Images/lang_tc_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+
+            #lang .scLang {
+                display: inline-block;
+                width: 20px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/lang_sc.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .scLang:hover {
+                    background: url(/Images/lang_sc_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+
+            #lang .enLang {
+                display: inline-block;
+                width: 40px;
+                height: 25px;
+                vertical-align: middle;
+                background: url(/Images/lang_en.png) no-repeat center center;
+                background-size: contain;
+            }
+
+                #lang .enLang:hover {
+                    background: url(/Images/lang_en_hover.png) no-repeat center center;
+                    background-size: contain;
+                }
+            /* --------skip begin--------- */
+            .skip-link {
+                display:none;
+                position: relative;
+                z-index: 1001;
+            }
+
+            .skip-link__link {
+                display: -moz-inline-stack;
+                display: block;
+                margin: 0;
+                max-height: 0;
+                color: #FFF;
+                position: absolute;
+                top: -5000px;
+                left: -5000px;
+            }
+
+            .skip-link__link:focus {
+                max-height: 1920px;
+                display: inline-block;
+                padding: 15px;
+                margin: 5px;
+                outline: 3px solid #FFF;
+                text-decoration: underline;
+                left: 20px;
+                top: 16px;
+                background-color: #eb6100;
+            }
+            /* --------skip end--------- */
+        </style>
+<div class="container add-top-large">
+<div id="lang">
+<a tabindex="1" href="javascript: void()" onclick="setFontSize('S')" class="smallFont" title="较小的字体"></a>
+<a tabindex="1" href="javascript: void()" onclick="setFontSize('M')" class="mediumFont" title="预设字体大小"></a>
+<a tabindex="1" href="javascript: void()" onclick="setFontSize('L')" class="largeFont" title="最大的字体"></a>
+<div style="display: inline; font-size: 16px !important;">&nbsp;|&nbsp;</div>
+<a tabindex="1" title="繁體版" class="tcLang" href="https://wi-fi.hk/zh-HK/Hotspot/Detail/b4dd0f4a-d897-4413-86c3-000b837766d2"></a>
+<a tabindex="1" title="English" class="enLang" href="https://wi-fi.hk/eng/Hotspot/Detail/b4dd0f4a-d897-4413-86c3-000b837766d2"></a>
+</div>
+<a name="MainContent"></a>
+<section class="content-wrapper main-content clear-fix">
+<style>
+    #footer-logos {
+        display: none;
+    }
+    #detail span{
+        max-width: 80%;
+        word-break: break-word;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="/Content/app.css">
+<div class="spacer"></div>
+<div id="hotspot-detail" class="row-fluid">
+<div class="span6">
+<div id="gmap" style="height: 600px;">
+</div>
+</div>
+<div id="detail" class="span6">
+<h1 style="line-height: 1em; padding-bottom: 20px;">香港基督教女青年会赛马会屯门综合社会服务处</h1>
+<span style="color: #2d79b4;">福利服务单位</span>
+<hr />
+<div class="icon-label">
+<i class="pin-icon"></i>
+<span>新界屯门友爱邨爱廉楼地下</span>
+</div>
+<div class="icon-label">
+<i class="wifi-icon"></i>
+<span>Wi-Fi.HK via HKYWCA</span>
+</div>
+<div class="icon-label">
+<i class="cert-icon"></i>
+<span>managedwifi.biznetvigator.com</span>
+</div>
+<div class="icon-label">
+<i class="locationdetail-hotspots-icon"></i>
+<span>3 个热点</span>
+</div>
+<div class="icon-label">
+<i class="phone-icon"></i>
+<span><a href="tel:(852) 2883 0102">(852) 2883 0102</a></span>
+</div>
+<div class="icon-label">
+<i class="mail-icon"></i>
+<span><a href="/cdn-cgi/l/email-protection#483f212e2120232b3b082a2132262d3c3e212f293c273a662b2725"><span class="__cf_email__" data-cfemail="ea9d838c8382818999aa888390848f9e9c838d8b9e8598c4898587">[email&#160;protected]</span></a></span>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDRaqZH6FLI58YgXLaUgoOc5zQ3D2wrl-w&callback=initialize"></script>
+<script>
+        var hongkong = new google.maps.LatLng(22.3700556, 114.1535941);
+        var map;
+
+
+        function initialize() {
+
+            var hotspots = [
+
+                ['<h4>香港基督教女青年会赛马会屯门综合社会服务处</h4><ul class="gmap-infobox"><li>新界屯门友爱邨爱廉楼地下</li><li>福利服务单位</li><li>Wi-Fi.HK via HKYWCA</li></ul>', '22.386182', '113.974917'],
+
+            []
+            ];
+            var mapOptions = {
+                zoom: 11,
+                center: new google.maps.LatLng(hotspots[0][1], hotspots[0][2])
+            };
+
+            map = new google.maps.Map(document.getElementById('gmap'),
+                mapOptions);
+
+            var infowindow = new google.maps.InfoWindow();
+            var markers = new Array();
+
+            // Add the markers and infowindows to the map
+
+			map.setZoom(17);
+			map.panTo(new google.maps.LatLng(hotspots[0][1], hotspots[0][2]));
+
+			for (var i = 0; i < hotspots.length; i++) {
+                marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(hotspots[i][1], hotspots[i][2]),
+                    map: map,
+					icon: "/Images/icon_address.png"
+                });
+
+
+                markers.push(marker);
+
+			}
+
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+</section>
+</div>
+</div>
+<style>
+    .provider-logo {
+        margin-left: -2px;
+        margin-right: -2px;
+    }
+    @media screen and (max-width: 767px) {
+        .provider-logo {
+            display: inline-block !important;
+            width: 20% !important;
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        .provider-logo {
+            display: inline-block !important;
+            width: 10% !important;
+        }
+    }
+</style>
+<div class="spacer"></div>
+<div id="footer-logos" class="container" style="margin-left: auto; margin-right: auto; text-align: center;">
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="荃湾广场" href="http://www.tsuenwanplaza.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/twp?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="数码通电讯有限公司" href="http://www.smartone.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/smt?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港苏宁" href="https://www.hksuning.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/suning?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港家庭福利会" href="http://www.hkfws.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkfws?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港天文台" href="https://www.hko.gov.hk/contente.htm" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hko?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="循道卫理亚斯理社会服务处" href="http://amss.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/amss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="大埔超级城" href="https://taipomegamall.shkp.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/tpmm?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="龙运巴士有限公司" href="http://www.lwb.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/lwb?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="万国宣道浸信会" href="http://www.abwe.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/abwei?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="救世军" href="http://www.salvationarmy.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/tsahk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="消费者委员会" href="https://www.consumer.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港挪亚方舟" href="https://www.noahsark.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/noahsark?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港大学" href="http://www.hku.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hku?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="浸信会爱羣社会服务处" href="https://www.bokss.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/bokss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="港铁公司" href="http://www.mtr.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mtr?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="城巴有限公司" href="http://www.citybus.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/citybus?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港九龙塘基督教中华宣道会" href="http://www.ktac.org" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ktcccma?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="政府新闻处" href="https://www.isd.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/isd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="元创方管理有限公司" href="http://www.pmq.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/pmq?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新翠商场" href="http://www.newjadeshoppingarcade.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/njsa?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港教育大学" href="http://www.eduhk.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkied?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+ </div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港城市大学" href="http://www.cityu.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cityu?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="基督教家庭服务中心" href="http://www.cfsc.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cfsc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="V city" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/vcity?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="兰桂坊协会" href="https://lankwaifong.com/association" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/lkfa?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="昂坪360有限公司" href="http://www.np360.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/np360?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="恒基兆业地产有限公司" href="http://www.hld.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/henderson?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港生产力促进局" href="https://www.hkpc.org" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkpc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="Y5ZONE有限公司" href="https://www.y5zone.net/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/Y5Zone?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="帝京酒店" href="https://www.royalplaza.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/royalplazahotel?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="合和实业有限公司" href="http://www.hopewellholdings.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hopewell?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="大坑青年中心" href="http://www.youth.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/thyc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="中华锡安传道会有限公司" href="http://www.hkzion.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cezc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="循道爱华村服务中心社会福利部" href="http://www.mevcc.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mevccsw?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港电讯有限公司" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkt?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="圆玄学院" href="http://www.yuenyuensocialservice.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/YuenYuen?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="邻舍辅导会" href="http://www.naac.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/naac?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港科技园公司" href="http://www.hkstp.org" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkstp?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港基督教协基会有限公司" href="http://cubc.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cubchkl?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港中华煤气有限公司" href="https://www.towngasappliance.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/towngas?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港中华基督教青年会" href="http://www.ymca.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cymcahk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="运输署" href="http://www.td.gov.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/td?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="建造业议会" href="http://www.cic.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cic?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港基督教女青年会" href="http://www.ywca.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkywca?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="渣打银行(香港)有限公司" href="https://www.sc.com/hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/scb?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新城市广场" href="http://www.newtownplaza.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ntp1?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新达广场" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/up?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="政府资讯科技总监办公室" href="https://www.ogcio.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ogcio?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港公开大学" href="http://www.ouhk.edu.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ouhk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="知识产权署" href="http://www.ipd.gov.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ipd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港演艺学院" href="http://www.hkapa.edu/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkapa?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="信和集团" href="https://www.sino.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/sinogroup?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港科技大学" href="https://www.ust.hk/zh-hant/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkust?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港明爱" href="http://www.caritas.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/chk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="锡安社会服务处有限公司" href="http://www.zss.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/zss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="循道卫理杨震社会服务处" href="http://www.yang.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ymmss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="民航处" href="http://www.cad.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cad?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港基督教服务处" href="http://www.hkcs.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkcs?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港小童群益会" href="https://www.bgca.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/bgca?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="美差会潮浸服务联会" href="http://www.abmsbc.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/abmsbc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="南亚路德会有限公司" href="http://www.salem.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/salem?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="九龙巴士 (一九三三) 有限公司" href="http://www.kmb.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/kmb?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港青少年服务处" href="http://www.cys.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkcys?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港消防处" href="http://www.hkfsd.gov.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkfsd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港贸易发展局" href="http://www.hktdc.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hktdc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="社会福利署" href="https://www.swd.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/swd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港游乐场协会" href="http://hq.hkpa.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkpa?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="五旬节圣洁会" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/phci?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="仁爱堂有限公司" href="https://www.yot.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/yotl?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港电车有限公司" href="https://hktramways.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hktramways?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="G2000" href="https://www.g2000.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/g2000?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港迪士尼乐园" href="https://www.hongkongdisneyland.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/disneyland?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="渔农自然护理署" href="https://www.afcd.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/afcd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港伤健协会" href="http://www.hkphab.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkphab?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港出口信用保险局" href="http://www.hkecic.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ecic?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="apm" href="http://www.hkapm.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/apm?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港宣教会" href="http://www.hkec.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkec?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="循道卫理观塘社会服务处" href="http://www.ktmss.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ktmss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="圣雅各福群会" href="http://sjs.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/sjs?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="水务署" href="http://www.wsd.gov.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/wsd?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="循道卫理中心" href="http://www.methodist-centre.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="环球全域电讯有限公司" href="http://www.hgc.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/HGC?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="西贡区社区中心有限公司" href="http://www.skdcc.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/skdccl?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港撒玛利亚防止自杀会" href="https://sbhk.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/SamaritanBefrienders?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="东港城" href="http://www.eastpointcity.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/epc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="长洲乡事委员会青年综合服务中心" href="http://www.cciyc.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ccrciyc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="西九文化区管理局" href="http://www.westkowloon.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/wkcda?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="csl Wi-Fi" href="http://www.cslwifi.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/PCCW?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="世纪互联集团有限公司" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/21vn?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="东华三院赛马会大角咀综合服务中心" href="http://tkt.tungwahcsd.org" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/twgh?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="世贸中心" href="http://www.wtcmore.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/wtc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="太古地产有限公司" href="https://www.swireproperties.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/swire?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="天际100 香港观景台" href="https://sky100.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/sky100?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="基督复临安息日会港澳区会" href="http://hkmcadventist.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkmcsa?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="蓬瀛仙馆" href="http://www.fysk.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/fysk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港青年协会" href="http://www.hkfyg.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkfyg?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="通讯事务管理局办公室" href="http://www.ofca.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ofca?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="岭南大学" href="http://www.ln.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/lnu?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="发展局起动九龙东办事处" href="https://www.ekeo.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/devb?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港海洋公园" href="http://www.oceanpark.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/oceanpark?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港机场管理局" href="https://www.hongkongairport.com/eng/index.html" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkia?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="东华学院" href="http://www.twc.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/twc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港宽频网络有限公司" href="http://www.hkbn.net/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/HKBN?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新都会广场" href="http://www.metroplaza.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mp?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="元朗大会堂管理委员会有限公司" href="http://www.ylth.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ylthmcl?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="屈臣氏集团" href="https://www.aswatson.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/aswatsongroup?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="天星小轮有限公司" href="http://www.starferry.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/starferry?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="中华基督教礼贤会香港区会" href="http://www.rhenish.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/crchks?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港房屋委员会" href="https://www.housingauthority.gov.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkha?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="翘晋电子商务有限公司" href="https://www.certizen.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/certizen?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港恒生大学" href="http://www.hsu.edu.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hsmc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新城市中央广场" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hs?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港路德会社会服务处" href="http://www.hklss.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hklss?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="Wifinnity" href="https://www.wifinnity.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/wifinnity?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港会议展览中心(管理)有限公司" href="https://www.hkcec.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkcec?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="紫云间" href="http://oasisgroup.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/OasisGroup?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="职业训练局" href="http://www.vtc.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/vtc?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="形点" href="http://www.yohomall.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/yoho?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港佛教联合会" href="http://www.hkbuddhist.org" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkba?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新世纪广场" href="https://www.moko.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/moko?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="基督教宣道会香港区联会有限公司" href="http://www.cmacuhk.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cmacuhk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="珍宝的士有限公司" href="http://jumbotaxihk.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/jumbotaxi?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="博爱医院" href="http://www.pokoi.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/poh?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港交易及结算所有限公司" href="https://www.hkex.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkex?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+ </div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="中国银行(香港)有限公司" href="http://www.bochk.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/bochk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="崇光(香港)百货有限公司" href="https://www.sogo.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/sogo?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港浸信会联会" href="http://www.hkbaptist.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/bchk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="民政事务局－青年广场事务组" href="http://www.youthsquare.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hab?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="新世界第一巴士服务有限公司" href="http://www.nwfb.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/firstbus?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港理工大学" href="https://www.polyu.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/polyu?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="上水广场" href="http://www.landmarknorth.com.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/lan?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="恒隆地产" href="http://www.hanglung.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hanglung?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港浸信宣道会联会有限公司" href="http://www.hkcba.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkcbcal?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="民政事务总署" href="http://www.had.gov.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/had?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="啬色园" href="http://www.siksikyuen.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ssy?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="旺角街坊会有限公司" href="http://mkkfa.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mkkfal?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港中文大学" href="http://www.cuhk.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/cuhk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港仔坊会社会服务" href="http://aka.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/aka?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+ <a tabindex="1000000" title="AdWiFi Holding Limited" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/adwifi?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港数码港管理有限公司" href="http://www.cyberport.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/Cyberport?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港大学专业进修学院" href="http://hkuspace.hku.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkuspace?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港圣公会福利协会有限公司" href="http://www.skhwc.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkskhwcl?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港万国宣道浸信会社会服务" href="http://www.abwe.org.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/abwe?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港浸会大学" href="http://buwww.hkbu.edu.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkbu?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="亚洲国际博览馆管理有限公司" href="https://www.asiaworld-expo.com/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/AsiaWorldExpo?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港海洋公园万豪酒店" href="http://www.oceanparkmarriott.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/opmarriothotel?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="仁济医院" href="https://www.yanchai.org.hk/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/ych?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港循理会" href="http://ssd.fmchk.org/" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/fmchk?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="东亚银行有限公司" href="http://www.hkbea.com" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/bea?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="香港政府Wi-Fi服务" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/hkgwfs?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+<div class="provider-logo " style="margin-left: -4px; margin-right: -4px;">
+<div class="ratio-1-1">
+<div class="child" style="padding: 10px;">
+<a tabindex="1000000" title="Mikiki" href="http://www.mikiki-mall.com.hk" target="_blank" style="background: url('/zh-CN/Scheme/ShowLogoImage/mikiki?language=zh-cn') center center no-repeat; background-size: contain; display: block; width: 100%; height: 100%;"></a>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="f-row">
+<div class="col-lg-10 col-md-12 col-sm-12 col-xs-12">
+<div class="link-wrapper" style="">
+<div class="link"><a class="" href="/zh-CN/Background" tabindex="1000000">背景</a></div>
+<div class="link"><a class="" href="/zh-CN/Message" tabindex="1000000">主办机构献辞</a></div>
+<div class="link"><a class="" href="/zh-CN/SC" tabindex="1000000">督导委员会</a></div>
+<div class="link"><a class="" href="/zh-CN/Contact" tabindex="1000000">联络我们</a></div>
+<div class="link"><a class="" href="/zh-CN/ImportantNotice" tabindex="1000000">重要告示</a></div>
+<div class="link"><a class="" href="/zh-CN/SiteMap" tabindex="1000000">网页指南</a></div>
+</div>
+</div>
+<div class="col-lg-2 col-md-12 col-sm-12 col-xs-12" id="footer-social">
+<a tabindex="1000000" target="_blank" href="https://www.facebook.com/WiFi.HongKong"><img alt="facebook" src="/Images/FB-f-Logo__white_72.png" /></a>
+<a tabindex="1000000" target="_blank" href="https://www.instagram.com/WiFi.HongKong"><img alt="instagram" src="/Images/instagram_white.png" /></a>
+</div>
+</div>
+<div class="f-row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div style="font-size: 1.4em; padding-bottom: 0px !important;">
+主办单位
+</div>
+<hr />
+<p style="color: white;">
+政府资讯科技总监办公室
+</p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+<div style="font-size: 1.4em; padding-bottom: 0px !important;">
+协办单位
+</div>
+<hr />
+<p style="color: white;">
+香港无线科技商会
+</p>
+</div>
+</div>
+</div>
+</footer>
+<div class="container">
+<div class="row add-top">
+<div class="span12 providers-logo">
+</div>
+<div class="span12 copyright">
+<span>
+</span>
+<span class="copyright-text">Copyright &copy; Wi-Fi.HK. 版权所有.</span>
+</div>
+</div>
+</div>
+<div class="scrollTop">
+<a tabindex="1000000" href="javascript:void(0);" style="height: 32px;font-size: 12px;line-height: 16px;border-radius: 0px;">回到顶部</a>
+</div>
+
+<script type="text/javascript" src="/Scripts/jquery-3.2.1.min.js"></script>
+<script src="/bundles/jqueryui?v=Iy0JZD44xcPhVexXj5Gw7KzK9nuZkdFarIwsoQ7WIgs1"></script>
+<script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.ba-cond.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.slitslider.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/Scripts/custom.js"></script>
+<script type="text/javascript" src="/Scripts/smartbanner.min.js"></script>
+<script>
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-52840552-3', 'auto');
+        ga('send', 'pageview');
+
+
+    </script>
+<script src="/bundles/datatable?v=D3RfsD3SRj2yx0YCy85qJGau3xb_8iL8OdMCh016fuU1"></script>
+<script>
+    </script>
+<script>
+        function setFontSize(size) {
+            $.cookie('fontsize', size, { path: '/' });
+            window.location.reload();
+        }
+    </script>
+<script>
+        $(document).ready(function () {
+
+
+                $(".navigation").setup_navigation();
+
+
+                /* #DROP-DOWN NAVIGATION
+                ================================================== */
+                $("<select title='前往...' />").appendTo(".navigation");
+
+                // Create default option "Go to..."
+                $("<option />", {
+                    "selected": "selected",
+                    "value": "",
+                    "text": "前往..."
+                }).appendTo(".navigation select");
+
+                // Populate dropdown with menu items
+                $(".navigation a").each(function () {
+                    if ($(this).parent().hasClass("sub")) {
+                        var el = $(this);
+                        $("<option />", {
+                            "value": el.attr("href"),
+                            "text": " - " + el.text()
+                        }).appendTo(".navigation select");
+                    } else {
+                        var el = $(this);
+                        $("<option />", {
+                            "value": el.attr("href"),
+                            "text": el.text()
+                        }).appendTo(".navigation select");
+                    }
+                });
+                $(".navigation select").change(function () {
+                    window.location = $(this).find("option:selected").val();
+                });
+
+            });
+
+            $.fn.setup_navigation = function () {
+                $(this).find('> ul > li').hover(
+                    function () {
+                        $(this).children('ul').addClass('showmenu');
+                    }
+                    ,
+                    function () {
+                        $(this).children('ul').removeClass('showmenu');
+                    }
+                );
+
+                $(this).find('> ul > li > a').focus(function () {
+                    $(this).next('ul').addClass('showmenu');
+                });
+
+                $(this).find('> ul > li > a').focusout(function () {
+                    $(this).next('ul').removeClass('showmenu');
+                });
+
+                $(this).find('> ul > li > ul > li > a').focus(function () {
+                    $(this).parents('ul').addClass('showmenu');
+                });
+
+                $(this).find('> ul > li > ul > li > a').focusout(function () {
+                    $(this).parents('ul').removeClass('showmenu');
+                });
+            }
+    </script>
+</body>
+</html>
